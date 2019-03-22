@@ -5,13 +5,9 @@ Web based application designed to provide more robust searchability and filterin
 
 ### Primary Functionality
 -__Search by Name__
-
 -__Browse by Platform__
-
 -__Filter Search__
-
 -__Top Rated Lists__
-
 -__Show Random Game__
 
 ### Applicable Filters
