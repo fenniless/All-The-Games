@@ -1,7 +1,5 @@
-# GamesDB-Browser
-https://thegamesdb.net/
-
-Web based application designed to provide more robust searchability and filtering of the gamesDB.
+# All The Games
+Web based application designed to provide more robust searchability and filtering of the GamesDB.
 
 ### Primary Functionality
 - __Search by Name__  
