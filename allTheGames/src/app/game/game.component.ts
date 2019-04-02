@@ -20,6 +20,6 @@ export class GameComponent implements OnInit {
     this.selectedGame = game;
   }
   getGames(): void {
-    this.game = this.gameService.getGames();
+    this.gameService.getGames().subscribe(game => this.game = game);
   }
 }
