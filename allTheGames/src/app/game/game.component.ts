@@ -18,7 +18,8 @@ export class GameComponent implements OnInit {
   // };
   constructor() { }
 
-  ngOnInit() {
+  ngOnInit() { }
+  onSelect(game: Game): void {
+    this.selectedGame = game;
   }
-
 }
