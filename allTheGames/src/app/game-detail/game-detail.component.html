@@ -1,3 +1,16 @@
-<p>
-  game-detail works!
-</p>
+<div *ngIf="game">
+
+  <h2>{{game.name | uppercase}}</h2>
+  <div>
+    <label>name:
+      <input [(ngModel)]="game.name" placeholder="name"/>
+    </label>
+  </div>
+  <div><span>id: </span>{{game.id}}</div>
+  <div><span>date: </span>{{game.releaseDate}}</div>
+  <div><span>platform: </span>{{game.platform}}</div>
+  <div><span>release date: </span>{{game.releaseDate}}</div>
+  <div><span>rating: </span>{{game.rating}}</div>
+  <div><span>players: </span>{{game.players}}</div><br>
+  <div><span>         </span>{{game.overview}}</div>
+</div>

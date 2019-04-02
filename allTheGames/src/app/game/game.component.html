@@ -9,15 +9,14 @@
     <!--<span class="overview">{{game.overview}}</span>-->
   </li>
 </ul>
+<app-game-detail [game]="selectedGame"></app-game-detail>
+<!--<div *ngIf="selectedGame">-->
 
-
-<div *ngIf="selectedGame">
-
-  <h2>{{selectedGame.name | uppercase}}</h2>
-  <div><span>id: </span>{{selectedGame.id}}</div>
-  <div>
-    <label>name:
-    <input [(ngModel)]="selectedGame.name" placeholder="name"/>
-    </label>
-  </div>
-</div>
+  <!--<h2>{{selectedGame.name | uppercase}}</h2>-->
+  <!--<div><span>id: </span>{{selectedGame.id}}</div>-->
+  <!--<div>-->
+    <!--<label>name:-->
+    <!--<input [(ngModel)]="selectedGame.name" placeholder="name"/>-->
+    <!--</label>-->
+  <!--</div>-->
+<!--</div>-->
