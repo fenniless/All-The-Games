@@ -1,0 +1,938 @@
+{
+  "code": 200,
+  "status": "Success",
+  "data": {
+    "count": 20,
+    "games": [
+      {
+        "id": 34,
+        "game_title": "Killer7",
+        "release_date": "2005-07-07",
+        "platform": 2,
+        "players": 1,
+        "overview": "Step into the mind of an assassin!\r\n\r\nKiller7 is a hard hitting surreal action adventure game starring Harman Smith - a mysterious assassin who can harness the unique power of his seven personalities. Working together these personalities are the Killer7.\r\n\r\nTheir mission: stop the evil Kun Lan and his minions known as the Heaven Smile from taking over the world.",
+        "last_updated": "2018-07-06 22:32:55",
+        "rating": "M - Mature",
+        "coop": "No",
+        "youtube": "ln7MBdwH3SM",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          3577
+        ],
+        "genres": [
+          1,
+          2
+        ],
+        "publishers": [
+          9
+        ],
+        "alternates": [
+          "Killer 7"
+        ]
+      },
+      {
+        "id": 56,
+        "game_title": "Resident Evil 4",
+        "release_date": "2005-01-11",
+        "platform": 2,
+        "players": 1,
+        "overview": "U.S. agent Leon Kennedy has been tasked to look into the abduction of the President's daughter and his investigation has led him to a mysterious location in Europe. As Leon encounters unimaginable horrors, he must find out what is behind the terror.",
+        "last_updated": "2018-07-11 21:05:01",
+        "rating": "M - Mature",
+        "coop": "No",
+        "youtube": "-fGYWQs2WgM",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          1436
+        ],
+        "genres": [
+          1,
+          2,
+          18
+        ],
+        "publishers": [
+          9
+        ],
+        "alternates": null
+      },
+      {
+        "id": 71,
+        "game_title": "Viewtiful Joe",
+        "release_date": "2003-10-07",
+        "platform": 2,
+        "players": 1,
+        "overview": "Joe is no ordinary man and Viewtiful Joe is no ordinary game. Capcom's new superhero action game mixes funky cartoon-style visuals with classic side-scrolling gameplay and introduces the world's quirkiest million dollar action hero. More than just any ordinary dude, Joe must transform into the ultimate superhero. It's up to you to activate the correct view mode like \"slow\" or \"zoom in\" in order to clobber your enemies with beautiful style. You can also speed up or slow down your visual effects for even more \"viewtiful\" moves. Viewtiful Joe mixes an innovative viewpoint with an amazing stunt-filled action movie universe.",
+        "last_updated": "2018-07-11 21:05:01",
+        "rating": "T - Teen",
+        "coop": "No",
+        "youtube": "-Fb-L9tQ_ic",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          1705
+        ],
+        "genres": [
+          1,
+          10
+        ],
+        "publishers": [
+          9
+        ],
+        "alternates": null
+      },
+      {
+        "id": 166,
+        "game_title": "Mario Kart: Double Dash!!",
+        "release_date": "2003-11-17",
+        "platform": 2,
+        "players": 4,
+        "overview": "The Mushroom Kingdom just got a whole lot more hectic as Mario and friends double up for furious kart racing. This time around, each kart holds two racers that can switch places at any time, so choose from a huge cast of favorites and pair them up any way you see fit. The character in front handles the driving duties, while the character in the rear doles out damage with six normal items and eight special items that only specific characters can use. Get ready for some intense multiplayer mayhem with your favorite characters, including Mario, Luigi, Donkey Kong, Peach, Bowser, and Koopa.",
+        "last_updated": "2018-07-11 21:05:01",
+        "rating": "E - Everyone",
+        "coop": "Yes",
+        "youtube": "CRbidBwajBc",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          6037
+        ],
+        "genres": [
+          1,
+          7,
+          11
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 167,
+        "game_title": "Mario Party 4",
+        "release_date": "2002-10-21",
+        "platform": 2,
+        "players": 4,
+        "overview": "Toad, Koopa, and other party-planning pranksters have hidden birthday presents for their closest friends inside the Party Cube. To win the presents, Mario, Yoshi, Peach, and other Mushroom Kingdom favorites will have to plunge into a circus of minigame trickery. As always, keep an eye out for Bowser and his trouble-making goons. Even Whomp and Thwomp have rockin' surprises for you in their Extra Room. Packed with surprises, wild multiplayer action, and zany challenges, Mario Party 4 is your ticket to a good time.",
+        "last_updated": "2018-07-11 21:05:01",
+        "rating": "E - Everyone",
+        "coop": "No",
+        "youtube": "Yjs04Woae98",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          3923
+        ],
+        "genres": [
+          1,
+          5,
+          11
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 172,
+        "game_title": "Metroid Prime",
+        "release_date": "2002-11-17",
+        "platform": 2,
+        "players": 1,
+        "overview": "Ten years ago, beneath the surface of Planet Zebes, the mercenaries known as \"Space Pirates\" were defeated by interstellar bounty hunter Samus Aran. Descending to the very core of the pirate stronghold, Samus exterminated the energy based parasites called \"Metroids\" and defeated Mother Brain, the leader of the pirate hoarde.\r\n\r\nBut the Space Pirates were far from finished. Several pirate research vessels were orbiting Zebes when Samus fought on the surface below.\r\n\r\nAfter the fall of Mother Brain, the ships escaped, with the hope of finding enough resources to rebuild their forces and take their revenge.\r\n\r\nAfter discovering a possible pirate colony on planet Talon IV, Samus has once again prepared for war, hoping to end the Pirate threat forever.",
+        "last_updated": "2018-07-11 21:05:01",
+        "rating": "T - Teen",
+        "coop": "No",
+        "youtube": "https://www.youtube.com/watch?v=kLfkkSD15zQ",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          7160
+        ],
+        "genres": [
+          1,
+          2,
+          8,
+          15
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 174,
+        "game_title": "The Legend of Zelda: The Wind Waker",
+        "release_date": "2003-03-24",
+        "platform": 2,
+        "players": 2,
+        "overview": "The game is set on a group of islands in a vast sea—a first for the series. The player controls Link, the protagonist of the Zelda series. He struggles against his nemesis, Ganondorf, for control of a sacred relic known as the Triforce. Link spends a large portion of the game sailing, traveling between islands, and traversing through dungeons and temples to gain the power necessary to defeat Ganondorf. He also spends time trying to find his little sister.\r\nThe Wind Waker follows in the footsteps of Ocarina of Time and its sequel Majora's Mask, retaining the basic gameplay and control system from the two Nintendo 64 titles. A heavy emphasis is placed on using and controlling wind with a baton called the Wind Waker, which aids sailing and floating in air. Controversial during development for its use of cel shading graphics and younger Link character, The Wind Waker received acclaim on release and is one of the Nintendo GameCube's most popular games.\r\n\r\n* The \"Tingle Tuner\" is a special item allowing a second player to control the character Tingle if the system is connected to a Game Boy Advance by a link cable.",
+        "last_updated": "2019-03-23 18:23:01",
+        "rating": "E - Everyone",
+        "coop": "Yes",
+        "youtube": "",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          6043
+        ],
+        "genres": [
+          1,
+          2,
+          4,
+          5,
+          15
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2236,
+        "game_title": "Super Mario Sunshine",
+        "release_date": "2002-08-25",
+        "platform": 2,
+        "players": 1,
+        "overview": "When Mario arrives on tropical Isle Delfino, the once-pristine island is polluted and plastered with graffiti. Even worse, he's being blamed for the mess! Now instead of enjoying a relaxing vacation, Mario has to clean up the place and track down the real culprit.",
+        "last_updated": "2018-07-11 21:05:02",
+        "rating": "E - Everyone",
+        "coop": "No",
+        "youtube": "C5mcz3RfwMA",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          6043
+        ],
+        "genres": [
+          1,
+          2,
+          15
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2237,
+        "game_title": "Luigi's Mansion",
+        "release_date": "2001-11-18",
+        "platform": 2,
+        "players": 1,
+        "overview": "Luigi's Won a Mansion! \r\nThe bad news is that it's crawling with ghosts... and Mario seems to be trapped inside...\r\n\r\nLuigi's in for a spooktacular surprise as he creeps into the pitch-dark mansion he won, armed with only a flashlight and a vacuum custom-made for sucking up ghosts. Ghosts lurk in every nook and cranny. You'll have to master the Poltergust 3000 to vacuum them all up! Jewels, coins and cash are hidden throughout the mansion-and finding it all will be worth your while...\r\n\r\nYou'll have to solve the mansion's many mysteries to catch a gallery of quirky ghouls, such as the fire-belching Mr. Luggs. Deep inside the mansion hide elusive boss ghosts like Bogmire, each with ghastly powers and a ghostly bone to pick with Luigi!\r\n\r\nAfter collecting special medals, you'll be able to shoot fire, water, and ice from your vacuum to unearth secrets and thwart extra-eerie ghosts!",
+        "last_updated": "2018-07-11 21:05:02",
+        "rating": "E - Everyone",
+        "coop": "No",
+        "youtube": "bYRQqqMnmdk",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          6043
+        ],
+        "genres": [
+          2
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2258,
+        "game_title": "Star Fox: Assault",
+        "release_date": "2005-02-14",
+        "platform": 2,
+        "players": 4,
+        "overview": "Step into the guise of furry flyboy Fox McCloud as he returns to take on his deadliest enemy; wingmen Slippy Toad, Peppy Hare and Falco Lombardi are covering your back, as you take on hordes of intergalactic hostiles on land and in air.\r\n\r\nHop into Arwings for aerial skirmishes and Landmaster Tanks for ground-based confrontations, or simply run around on foot dispensing laser justice; the searing single player adventure is a total blast, while the glorious four-way split-screen mode is sure to keep you and your friends coming back for more. With sniper rifles and rocket launchers, this is one Fox you don't want to mess with!",
+        "last_updated": "2018-07-11 21:05:02",
+        "rating": "T - Teen",
+        "coop": "No",
+        "youtube": null,
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          5804
+        ],
+        "genres": [
+          1,
+          8
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2291,
+        "game_title": "Kururin Squash",
+        "release_date": "2004-10-14",
+        "platform": 2,
+        "players": 1,
+        "overview": "Kururin Squash! is an action-puzzle video game developed by Eighting and published by Nintendo. It was released only in Japan on October 14, 2004. The game is the successor to Kururin Paradise and is the only title of the Kururin series with 3D computer graphics.",
+        "last_updated": "2018-07-11 21:05:02",
+        "rating": "E - Everyone",
+        "coop": "No",
+        "youtube": null,
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          129
+        ],
+        "genres": [
+          2,
+          5
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2301,
+        "game_title": "1080: Avalanche",
+        "release_date": "2003-11-28",
+        "platform": 2,
+        "players": 4,
+        "overview": "1080° Avalanche is a snowboarding game for the Nintendo GameCube, developed by Nintendo's in-house development studio, NST, and published by Nintendo. Avalanche is a sequel to 1080° Snowboarding for the Nintendo 64. The game has an emphasis on racing, rather than doing tricks, in contrast to other popular snowboarding games, such as the SSX series. It can output in 480p and Dolby Pro Logic II and supports four players on one GameCube as well as LAN play with up to four GameCubes.",
+        "last_updated": "2018-11-27 17:04:54",
+        "rating": "E - Everyone",
+        "coop": "No",
+        "youtube": "",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          6166
+        ],
+        "genres": [
+          7,
+          11
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": [
+          "1080° Avalanche"
+        ]
+      },
+      {
+        "id": 2302,
+        "game_title": "Donkey Kong Jungle Beat",
+        "release_date": "2005-03-14",
+        "platform": 2,
+        "players": 1,
+        "overview": "Donkey Kong Jungle Beat is a Nintendo GameCube video game featuring the ape Donkey Kong and played with the DK Bongos. It was released in Japan on December 16, 2004, in Europe on February 4, 2005, in North America on March 14, 2005, and in Australia on March 17, 2005. In 2008 and 2009, the game was re-released in the New Play Control! series of revamped Nintendo GameCube titles. The Wii version of Donkey Kong Jungle Beat is somewhat changed from the original GameCube version, including new levels, modifications of old levels, and traditional controls that have the player use the analog stick to move and the A button to jump, unlike the GameCube version which required the player to beat the bongos to do both. This is the first game to be rated E10 by the ESRB.",
+        "last_updated": "2018-07-11 21:05:02",
+        "rating": "E10+ - Everyone 10+",
+        "coop": "No",
+        "youtube": "3ioW9XC2fu4",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          6045
+        ],
+        "genres": [
+          2
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2316,
+        "game_title": "Mario Party 5",
+        "release_date": "2003-11-10",
+        "platform": 2,
+        "players": 4,
+        "overview": "Mario Party 5 gives the Mario Party series new game boards, more than 60 new minigames, new playable characters, an expanded single-player mode and, of course, more multiplayer madness than you can handle. In Mario Party 5, Mario and his friends are trying to restore peace to Dream World by racing around a collection of game boards. This time around, players can change the location of event spaces by using special capsules found on each board. The player with the most stars and coins at the end of the game wins.",
+        "last_updated": "2018-07-11 21:05:02",
+        "rating": "E - Everyone",
+        "coop": "No",
+        "youtube": null,
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          3923
+        ],
+        "genres": [
+          1,
+          5,
+          11
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2317,
+        "game_title": "Mario Party 6",
+        "release_date": "2004-12-06",
+        "platform": 2,
+        "players": 4,
+        "overview": "Mario Party 6 offers a new batch of games that require both your fingers and your voice. In this installment in the Mario Party series, you can use the included microphone controller to talk your way to victory. More than 80 minigames are included. You can play as Mario, Bowser, or other characters from the Mushroom Kingdom. New characters appear on the board depending on what time of day it is. The game supports up to four players.",
+        "last_updated": "2018-07-11 21:05:02",
+        "rating": "E - Everyone",
+        "coop": "No",
+        "youtube": null,
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          3923
+        ],
+        "genres": [
+          1,
+          5,
+          11
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2318,
+        "game_title": "Mario Party 7",
+        "release_date": "2005-11-07",
+        "platform": 2,
+        "players": 4,
+        "overview": "You can play more than 80 new minigames in the most recent Mario-themed party game, Mario Party 7. Mario and pals needed some time off, but they forgot to invite Bowser on their cruise. You can battle against an angry Bowser or up to seven of your friends on a single GameCube system. Mario Party 7 includes a few new characters and brings back microphone support from Mario Party 6.",
+        "last_updated": "2018-07-11 21:05:02",
+        "rating": "E - Everyone",
+        "coop": "Yes",
+        "youtube": null,
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          3923
+        ],
+        "genres": [
+          1,
+          5,
+          11
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2319,
+        "game_title": "Paper Mario: The Thousand-Year Door",
+        "release_date": "2004-10-11",
+        "platform": 2,
+        "players": 1,
+        "overview": "What Sleeps Behind the Door?\r\n\r\nTime passes, the pages turn…and a new chapter unfolds in an unfamiliar land! Get ready for a two-dimensional role-playing adventure for the ages as Mario returns to paper form to discover a mystery that sleeps behind an ancient, legendary portal called the Thousand-Year Door. The quest is long, the dangers many, and this time, Mario will have to make full use of his papery qualities just to survive.\r\n\r\nTake to the stage! Impressing the crowd builds power for super attacks, but don’t disappoint the audience, or you’ll pay!\r\n\r\nNo need to go it alone! You’ll need to rely on sidekicks to survive, and even enemies have roles to play…\r\n\r\nDon’t fold under pressure! Fold into a paper airplane, turn sideways to slip through cracks, and much more.\r\n\r\nStay on your toes! Stamp foes, swing your hammer, and use timely button presses to do damage!",
+        "last_updated": "2018-08-11 15:01:11",
+        "rating": "E - Everyone",
+        "coop": "No",
+        "youtube": null,
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          4248
+        ],
+        "genres": [
+          2,
+          4
+        ],
+        "publishers": [
+          3
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2320,
+        "game_title": "Superman: Shadow Of Apokolips",
+        "release_date": "2002-09-25",
+        "platform": 2,
+        "players": 1,
+        "overview": "The man of steel faces his greatest challenge yet in Superman: Shadow of Apokolips. Darkseid, the most evil being in the galaxy, has enlisted the aid of Lex Luthor in his quest to destroy Superman and take over the world. As Superman, you must stop Luthor's army of Inter-Bot robots and the fearsome Metallo, who is fresh out of Strykers Island Prison. Use all of Superman's powers through 14 enormous levels, featuring epic battles with legendary villains, including Livewire and Parasite. The fate of the planet lies in your hands.",
+        "last_updated": "2018-07-24 14:35:33",
+        "rating": "E - Everyone",
+        "coop": "Yes",
+        "youtube": "",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          748
+        ],
+        "genres": [
+          1,
+          2
+        ],
+        "publishers": [
+          506
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2321,
+        "game_title": "Tony Hawk's American Wasteland",
+        "release_date": "2005-10-18",
+        "platform": 2,
+        "players": null,
+        "overview": "Now you can cruise through LA without loading levels or stopping gameplay in Tony Hawk's American Wasteland. You can skate or BMX through a new story mode that takes you through all-new skate areas using tricks that have never appeared in previous Tony Hawk games. The cash that you earn can be used to customize your equipment and your skater by going to tattoo parlors and skate shops. Tony Hawk's American Wasteland also includes a classic mode that features classic Tony Hawk Pro Skater maps and objectives.",
+        "last_updated": "2018-07-11 21:05:02",
+        "rating": "T - Teen",
+        "coop": null,
+        "youtube": null,
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          5926
+        ],
+        "genres": [
+          11
+        ],
+        "publishers": [
+          33
+        ],
+        "alternates": null
+      },
+      {
+        "id": 2322,
+        "game_title": "Tony Hawk's Pro Skater 4",
+        "release_date": "2002-10-23",
+        "platform": 2,
+        "players": 4,
+        "overview": "Drop into the ultimate challenge. In the next chapter in the Tony Hawk series, pros challenge you to make your mark in huge free-roaming levels, taking on 190 progressively harder goals with no time limits to hold you back. Decide when you're ready to take on your Pro Challenge and move into the pro ranks, where it's a whole new game. Build your skills, perform all-new tricks, play up to eight players online, and show that you've got what it takes to go Pro.",
+        "last_updated": "2018-07-11 21:05:02",
+        "rating": "T - Teen",
+        "coop": "No",
+        "youtube": "RHcpLwKq900",
+        "os": null,
+        "processor": null,
+        "ram": null,
+        "hdd": null,
+        "video": null,
+        "sound": null,
+        "developers": [
+          5926
+        ],
+        "genres": [
+          11
+        ],
+        "publishers": [
+          33
+        ],
+        "alternates": null
+      }
+    ]
+  },
+  "include": {
+    "boxart": {
+      "base_url": {
+        "original": "https://cdn.thegamesdb.net/images/original/",
+        "small": "https://cdn.thegamesdb.net/images/small/",
+        "thumb": "https://cdn.thegamesdb.net/images/thumb/",
+        "cropped_center_thumb": "https://cdn.thegamesdb.net/images/cropped_center_thumb/",
+        "medium": "https://cdn.thegamesdb.net/images/medium/",
+        "large": "https://cdn.thegamesdb.net/images/large/"
+      },
+      "data": {
+        "34": [
+          {
+            "id": 17948,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/34-1.jpg",
+            "resolution": "1533x2156"
+          },
+          {
+            "id": 17949,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/34-1.jpg",
+            "resolution": "1533x2156"
+          }
+        ],
+        "56": [
+          {
+            "id": 13809,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/56-1.jpg",
+            "resolution": "1545x2175"
+          },
+          {
+            "id": 13811,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/56-2.jpg",
+            "resolution": "1525x2175"
+          }
+        ],
+        "71": [
+          {
+            "id": 13822,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/71-1.jpg",
+            "resolution": "1551x2173"
+          },
+          {
+            "id": 13823,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/71-2.jpg",
+            "resolution": "1528x2173"
+          }
+        ],
+        "166": [
+          {
+            "id": 17972,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/166-1.jpg",
+            "resolution": "1533x2156"
+          },
+          {
+            "id": 17973,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/166-1.jpg",
+            "resolution": "1533x2156"
+          }
+        ],
+        "167": [
+          {
+            "id": 9265,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/167-1.jpg",
+            "resolution": "530x750"
+          },
+          {
+            "id": 9266,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/167-1.jpg",
+            "resolution": "530x750"
+          }
+        ],
+        "172": [
+          {
+            "id": 206205,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/172-1.jpg",
+            "resolution": null
+          },
+          {
+            "id": 206206,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/172-1.jpg",
+            "resolution": null
+          }
+        ],
+        "174": [
+          {
+            "id": 56698,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/174-1.jpg",
+            "resolution": "1535x2156"
+          },
+          {
+            "id": 56699,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/174-1.jpg",
+            "resolution": "1571x2156"
+          }
+        ],
+        "2236": [
+          {
+            "id": 18114,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2236-1.jpg",
+            "resolution": "1533x2156"
+          },
+          {
+            "id": 18115,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/2236-1.jpg",
+            "resolution": "1533x2156"
+          }
+        ],
+        "2237": [
+          {
+            "id": 17964,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2237-1.jpg",
+            "resolution": "1533x2156"
+          },
+          {
+            "id": 17965,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/2237-1.jpg",
+            "resolution": "1533x2156"
+          }
+        ],
+        "2258": [
+          {
+            "id": 34247,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2258-2.jpg",
+            "resolution": "1531x2175"
+          },
+          {
+            "id": 34248,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/2258-2.jpg",
+            "resolution": "1542x2175"
+          }
+        ],
+        "2291": [
+          {
+            "id": 4842,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2291-1.jpg",
+            "resolution": "640x888"
+          }
+        ],
+        "2301": [
+          {
+            "id": 4858,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2301-1.jpg",
+            "resolution": "640x908"
+          },
+          {
+            "id": 33759,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/2301-1.jpg",
+            "resolution": "1509x2156"
+          }
+        ],
+        "2302": [
+          {
+            "id": 17882,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2302-1.jpg",
+            "resolution": "1541x2156"
+          },
+          {
+            "id": 17883,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/2302-1.jpg",
+            "resolution": "1528x2156"
+          }
+        ],
+        "2316": [
+          {
+            "id": 4885,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2316-1.jpg",
+            "resolution": "640x908"
+          },
+          {
+            "id": 17974,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/2316-1.jpg",
+            "resolution": "1533x2156"
+          }
+        ],
+        "2317": [
+          {
+            "id": 4886,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2317-1.jpg",
+            "resolution": "640x908"
+          },
+          {
+            "id": 17980,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/2317-1.jpg",
+            "resolution": "1533x2156"
+          }
+        ],
+        "2318": [
+          {
+            "id": 4887,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2318-1.jpg",
+            "resolution": "640x890"
+          },
+          {
+            "id": 17981,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/2318-1.jpg",
+            "resolution": "1533x2156"
+          }
+        ],
+        "2319": [
+          {
+            "id": 4888,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2319-1.jpg",
+            "resolution": "640x908"
+          },
+          {
+            "id": 18028,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/2319-1.jpg",
+            "resolution": "1533x2156"
+          }
+        ],
+        "2320": [
+          {
+            "id": 4889,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2320-1.jpg",
+            "resolution": "640x908"
+          }
+        ],
+        "2321": [
+          {
+            "id": 24211,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/2321-1.jpg",
+            "resolution": "1527x2143"
+          },
+          {
+            "id": 24212,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2321-1.jpg",
+            "resolution": "1534x2143"
+          }
+        ],
+        "2322": [
+          {
+            "id": 4891,
+            "type": "boxart",
+            "side": "front",
+            "filename": "boxart/front/2322-1.jpg",
+            "resolution": "640x908"
+          },
+          {
+            "id": 18135,
+            "type": "boxart",
+            "side": "back",
+            "filename": "boxart/back/2322-1.jpg",
+            "resolution": "1533x2156"
+          }
+        ]
+      }
+    },
+    "platform": {
+      "data": {
+        "2": {
+          "id": 2,
+          "name": "Nintendo GameCube",
+          "alias": "nintendo-gamecube"
+        }
+      }
+    }
+  },
+  "pages": {
+    "previous": null,
+    "current": "https://api.thegamesdb.net/Games/ByPlatformID?apikey=df875d52f9cd1150dfe6538ecf3f4f71c2dcd2855a77ef1e8a3638073d2d7c82&id=2&fields=players%2Cpublishers%2Cgenres%2Coverview%2Clast_updated%2Crating%2Cplatform%2Ccoop%2Cyoutube%2Cos%2Cprocessor%2Cram%2Chdd%2Cvideo%2Csound%2Calternates&include=boxart%2Cplatform&page=1",
+    "next": "https://api.thegamesdb.net/Games/ByPlatformID?apikey=df875d52f9cd1150dfe6538ecf3f4f71c2dcd2855a77ef1e8a3638073d2d7c82&id=2&fields=players%2Cpublishers%2Cgenres%2Coverview%2Clast_updated%2Crating%2Cplatform%2Ccoop%2Cyoutube%2Cos%2Cprocessor%2Cram%2Chdd%2Cvideo%2Csound%2Calternates&include=boxart%2Cplatform&page=2"
+  },
+  "remaining_monthly_allowance": 0,
+  "extra_allowance": 5957,
+  "allowance_refresh_timer": null
+}
