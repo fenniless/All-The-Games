@@ -1,22 +1,12 @@
 <h2>Gamecube Games</h2>
 <ul class="game">
-  <li *ngFor="let game of game"
-      [class.selected]="game === selectedGame"
-      (click)="onSelect(game)">
+  <li *ngFor="let game of game">
+    <a routerLink="/detail/{{game.id}}">
     <span class="badge">{{game.id}}</span>
     <span class="name"> {{game.name}}</span>
     <span class="date"> {{game.releaseDate}}</span>
     <!--<span class="overview">{{game.overview}}</span>-->
+    </a>
   </li>
 </ul>
 <app-game-detail [game]="selectedGame"></app-game-detail>
-<!--<div *ngIf="selectedGame">-->
-
-  <!--<h2>{{selectedGame.name | uppercase}}</h2>-->
-  <!--<div><span>id: </span>{{selectedGame.id}}</div>-->
-  <!--<div>-->
-    <!--<label>name:-->
-    <!--<input [(ngModel)]="selectedGame.name" placeholder="name"/>-->
-    <!--</label>-->
-  <!--</div>-->
-<!--</div>-->

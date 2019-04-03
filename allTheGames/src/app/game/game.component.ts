@@ -9,15 +9,12 @@ import { GameService } from '../game.service';
 })
 export class GameComponent implements OnInit {
   game: Game[];
-  selectedGame: Game;
+  // selectedGame: Game;
 
   constructor(private gameService: GameService) { }
 
   ngOnInit() {
     this.getGames();
-  }
-  onSelect(game: Game): void {
-    this.selectedGame = game;
   }
   getGames(): void {
     this.gameService.getGames().subscribe(game => this.game = game);
