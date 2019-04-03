@@ -5,13 +5,17 @@ import { AppComponent } from './app.component';
 import { GameComponent } from './game/game.component';
 import { FormsModule } from '@angular/forms';
 import { GameDetailComponent } from './game-detail/game-detail.component';
+import { MessagesComponent } from './messages/messages.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     GameComponent,
-    GameDetailComponent
+    GameDetailComponent,
+    MessagesComponent,
+    DashboardComponent
   ],
   imports: [
     BrowserModule,
